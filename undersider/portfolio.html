@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="da">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/layout.css">
+    <link rel="icon" type="img/webp" href="../img/favicon.webp">
+
+    <title>Portfolio</title>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <nav class="navbar">
+                <a href="../index.html" class="nav-branding hidden-web">Zehra's Portfolio</a>
+                <ul class="nav-menu">
+                    <li class="nav-item">
+                        <a href="../index.html" class="nav-link home">Forside</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a href="#" class="nav-link port">Portfolio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="om.html" class="nav-link om">Om mig</a>
+                    </li>
+                </ul>
+                <div class="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="flex-container">
+            <div id="t2-container">
+                <h3 class="t2-txt"> Tema_2</h3>
+                <div class="txt-container overflowTest">
+                    <p>I tema 2 lærte vi om grundlæggende web. Det inkluderede blandt andet grafiske analyser, photoshop
+                        tutorials, opmarkering af tekster i HTML og hvordan man laver sit website responsivt.
+                        I dette tema lavede vi to store opgaver; et website og et emnesite, der samtidig fungerede som
+                        vores studiestartsprøve.
+                    </p>
+                    <h3>Website</h3>
+                    <p>I website-opgaven var målet at kunne stille elementer op efter et wireframe som lærerne
+                        udleverede, samt lære at lave en god mappestruktur.
+                        Opgaven udviklede forståelsen for navnekonventioner og link-struktur fra index til undersider og
+                        tilbage.<br><a class="tema-link"
+                            href="http://detlilleanneks.dk/mmd/1sem/t2/webside/webside/index.html" target="_blank"> I
+                            kan se mit website
+                            her</a></p>
+                    <div class="carousel hidden-web" data-carousel>
+                        <button class="carousel-button prev" data-carousel-button="prev">&#8604;</button>
+                        <button class="carousel-button next" data-carousel-button="next">&#8605;</button>
+                        <ul data-slides>
+                            <li class="slide" data-active>
+                                <p class="carousel-titel">website_underside</p>
+                                <img src="../img/webside-komp.png" alt="website_underside">
+                            </li>
+                            <li class="slide">
+                                <p class="carousel-titel">website_index </p>
+                                <img src="../img/Website-index.png" alt="website_index">
+                            </li>
+                            <li class="slide website-mobil">
+                                <p class="carousel-titel">website_mobil_index</p>
+                                <img src="../img/website-mobil-index.png" alt="website_mobil_index">
+                            </li>
+                            <li class="slide">
+                                <p class="carousel-titel">website_wireframe</p>
+                                <img src="../img/website-wireframe.png" alt="website_wireframe">
+                            </li>
+                        </ul>
+                    </div>
+                    <h3>Emnesite</h3>
+                    <p><abbr title="Studiestartsprøven">Emnesitet</abbr> var en støre opgave hvor jeg
+                        Emnesitet var en større opgave, hvor jeg selv skulle udarbejde wireframe, moodboard, styletile,
+                        <abbr title="general tekst på site"> copy</abbr> og skaffe billeder til sitet.
+                        Mit emnesite omhandlede min bamsesamling, og som overordnet designstil valgte jeg <i>antidesign
+                        </i>-. Det ses fx af at menuen ikke følger den konvention at være placeret i headeren men i
+                        stedet befandt sig midt på siden. Jeg søgte et legende udtryk, hvor diverse copy og billeder
+                        var gemt men synligt ved hover. For alligevel at hinte til brugeren at der var noget indhold
+                        gemt på sitet, havde jeg lagt en hvid næsten transparent container til billederne og en
+                        tekst-container med en border på til teksten.
+                        <br><a class="tema-link" href="http://detlilleanneks.dk/mmd/1sem/t2/emnesite/startside.html"
+                            target="_blank"> I
+                            kan se mit Emnesite
+                            her</a>
+                    </p>
+
+                    <div class="hidden-web carousel" data-carousel>
+                        <button class="carousel-button prev" data-carousel-button="prev">&#8604;</button>
+                        <button class="carousel-button next" data-carousel-button="next">&#8605;</button>
+                        <ul data-slides>
+                            <li class="slide" data-active>
+                                <p class="carousel-titel">Emnesite_start_side</p>
+                                <img src="../img/emne-start.png" alt="emne site start side">
+                            </li>
+                            <li class="slide">
+                                <p class="carousel-titel">Emnesite_index_side</p>
+                                <img src="../img/emne-index.png" alt="emnesite forside">
+                            </li>
+                            <li class="slide">
+                                <p class="carousel-titel">Emnesite_styletile</p>
+                                <img src="../img/styletile-emne.png" alt="Styletile til emnesite">
+                            </li>
+                            <li class="slide">
+                                <p class="carousel-titel">Emnesite_moodboard_1</p>
+                                <img src="../img/moodboard1-emne.png" alt="emne site første moodboard">
+                            </li>
+                            <li class="slide">
+                                <p class="carousel-titel">Emnesite_moodboard_2</p>
+                                <img src="../img/moodboard2-emne.png" alt="emne site andet moodboard">
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="emne-container hidden">
+                <div class="carousel" data-carousel>
+                    <button class="carousel-button prev" data-carousel-button="prev">&#8604;</button>
+                    <button class="carousel-button next" data-carousel-button="next">&#8605;</button>
+                    <ul data-slides>
+                        <li class="slide" data-active>
+                            <p class="carousel-titel">Emnesite_start_side</p>
+                            <img src="../img/emne-start.png" alt="emne site start side">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">Emnesite_index_side</p>
+                            <img src="../img/emne-index.png" alt="emnesite forside">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">Emnesite_styletile</p>
+                            <img src="../img/styletile-emne.png" alt="Styletile til emnesite">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">Emnesite_moodboard_1</p>
+                            <img src="../img/moodboard1-emne.png" alt="emne site første moodboard">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">Emnesite_moodboard_2</p>
+                            <img src="../img/moodboard2-emne.png" alt="emne site andet moodboard">
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="website-container hidden">
+            <div class="carousel" data-carousel>
+                <button class="carousel-button prev" data-carousel-button="prev">&#8604;</button>
+                <button class="carousel-button next" data-carousel-button="next">&#8605;</button>
+                <ul data-slides>
+                    <li class="slide" data-active>
+                        <p class="carousel-titel">website_underside </p>
+                        <img src="../img/webside-komp.png" alt="website_underside">
+                    </li>
+                    <li class="slide">
+                        <p class="carousel-titel">website_index </p>
+                        <img src="../img/Website-index.png" alt="website_index">
+                    </li>
+                    <li class="slide website-mobil">
+                        <p class="carousel-titel">website_mobil_index</p>
+                        <img src="../img/website-mobil-index.png" alt="website_mobil_index">
+                    </li>
+                    <li class="slide">
+                        <p class="carousel-titel">website_wireframe</p>
+                        <img src="../img/website-wireframe.png" alt="website_wireframe">
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="t3-container">
+            <h3 class="t3-txt">Tema_3</h3>
+            <div class="txt-container2 overflowTest">
+                <p>I dette tema gik vi i dybden med <abbr title="user experience"> UX.</abbr> Vi gik igennem UX'erens
+                    rolle på tværs af
+                    designdiscipliner og iterative processer. Vi blev desuden introduceret for mange forskellige måder
+                    at indsamle data på om brugere: desk research, surveys, observation - digitalt og fysisk,
+                    interviews og tænke højt-test.
+                </p>
+                <h3>UX-design</h3>
+                <p>I denne temaopgave skulle vi producere en webshop der solgte t-shirts og andet tøj, hvor vi drog på
+                    al den indsamlede data. Her skulle der ikke kodes men derimod laves en prototype i programmet Adobe
+                    XD. Målsætningen var at lave en virkelighedsnær oplevelse af webshoppen, så man kunne interagere med
+                    det ved fx at trykke på knapper, "lægge varer i kurv" og "købe" varerne.
+                    Målgruppen for min webshop var "kreative og alternative personer.”
+                    På den sidste dag i temaet skulle vi lave pitche vores produkt for resten af klassen. Dette skete
+                    via powerpoint, og du kan se mit pitch<a class="tema-link" href="../03-03-02_aaaa_zehra.pdf.pdf"
+                        target="_blank"> her
+                    </a>Se prototypen på min webshop<a class="tema-link"
+                        href="https://xd.adobe.com/view/0bec8a76-aff6-4d29-9393-be4235c5870f-5ebf/" target="_blank">
+                        her</a></p>
+                <div class="carousel hidden-web" data-carousel>
+                    <button class="carousel-button prev" data-carousel-button="prev">&#8604;</button>
+                    <button class="carousel-button next" data-carousel-button="next">&#8605;</button>
+                    <ul data-slides>
+                        <li class="slide">
+                            <p class="carousel-titel">UX_pitch </p>
+                            <img src="../img/UX-pitch.webp" alt="">
+                        </li>
+                        <li class="slide" data-active>
+                            <p class="carousel-titel">UX_design_sketch </p>
+                            <img src="../img/UX-sketch.webp" alt="">
+                        </li>
+                        <li class="slide website-mobil">
+                            <p class="carousel-titel">UX_styletile</p>
+                            <img src="../img/UX-styletile.webp" alt="">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">UX_crazy8</p>
+                            <img src="../img/UX-crazy8.webp" alt="">
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="ux-container hidden">
+            <div class="carousel" data-carousel>
+                <button class="carousel-button prev" data-carousel-button="prev">&#8604;</button>
+                <button class="carousel-button next" data-carousel-button="next">&#8605;</button>
+                <ul data-slides>
+                    <li class="slide">
+                        <p class="carousel-titel">UX_pitch </p>
+                        <img src="../img/UX-pitch.webp" alt="UX_pitch">
+                    </li>
+                    <li class="slide" data-active>
+                        <p class="carousel-titel">UX_design_sketch </p>
+                        <img src="../img/UX-sketch.webp" alt="UX_design_sketch">
+                    </li>
+                    <li class="slide website-mobil">
+                        <p class="carousel-titel">UX_styletile</p>
+                        <img src="../img/UX-styletile.webp" alt="UX_styletile">
+                    </li>
+                    <li class="slide">
+                        <p class="carousel-titel">UX_crazy_8</p>
+                        <img src="../img/UX-crazy8.webp" alt="UX_crazy_8">
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="t4-container">
+            <h3 class="t4-txt"> Tema_4</h3>
+            <div class="txt-container3 overflowTest">
+                <p>På fjerde tema skulle vi lære JavaScript at kende, og det gjorde vi ved at designe et interaktivt
+                    spil.
+                </p>
+                <h3>Spil_opgave</h3>
+                <p>Klassen fik indledningsvist en masse stilarter præsenteret, og jeg valgte at mit spil skulle ligne en
+                    krydsning mellem Hattie Stewart og Year Walk, da jeg ønskede at gå en mere horror-inspireret vej med
+                    mit spil.
+                    Jeg udarbejdede flere skitser og tests for at finde ud af, hvordan spillet skulle fungere.
+                    Desværre mistede jeg en masse af disse digitale skitser da min computer crashede. Lille mig havde
+                    selvfølgelig glemt at gemme undervejs, så nu har jeg da lært at gøre det fremover.
+                    Jeg endte med at lave et spil, hvor en pige sover i et rum og der under hendes seng befinder sig
+                    nogle skygger. Jeg valgte her at lave tre forskellige slutninger - istedet for dikotomien "level
+                    complete" og "game over" - da dette passede bedre til min ide.</p>
+                    <p>
+                    Jeg skitserede, lavede paper prototype af spillet og begyndte herefter at tænke i hvad den
+                    underliggende historie skulle være i spillet. For at kunne se hvordan mekanikken i spillet fungerer,
+                    udarbejdede vi aktivitets- og state machinediagrammer.</p>
+
+                <p>I den sidste uge af temaet fik jeg desuden nogle venner til at indtale de forskellige stemmer der
+                    skulle bruges i spillet.
+
+                    Du kan se mit spil <a class="tema-link"
+                        href="https://detlilleanneks.dk/mmd/1sem/t4/webside/undersider/spil.html"
+                        target="_blank">her.</a></p>
+                <div class="carousel hidden-web" data-carousel>
+                    <button class="carousel-button prev" data-carousel-button="prev">&#8604;</button>
+                    <button class="carousel-button next" data-carousel-button="next">&#8605;</button>
+                    <ul data-slides>
+                        <li class="slide">
+                            <p class="carousel-titel">Spil_opgave_paper_prototype</p>
+                            <img src="../img/Spil_opgave_paper_prototype.webp" alt="Spil_opgave_paper_prototype">
+                        </li>
+                        <li class="slide website-mobil">
+                            <p class="carousel-titel">Spil_opgave_sketches</p>
+                            <img src="../img/Spil_opgave_sketches.webp" alt="Spil_opgave_sketches">
+                        </li>
+                        <li class="slide" data-active>
+                            <p class="carousel-titel">Spil_opgave_assets</p>
+                            <img src="../img/Spil_opgave_assets.webp" alt="Spil_opgave_færdige_assets">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">Spil_opgave_ide_til_start_screen</p>
+                            <img src="../img/Spil_opgave_ide_til_start_screen.webp"
+                                alt="Spil_opgave_ide_til_start_screen">
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="spiltema-container hidden">
+            <div class="carousel" data-carousel>
+                <button class="carousel-button prev" data-carousel-button="prev">&#8604;</button>
+                <button class="carousel-button next" data-carousel-button="next">&#8605;</button>
+                <ul data-slides>
+                    <li class="slide">
+                        <p class="carousel-titel">Spil_opgave_paper_prototype</p>
+                        <img src="../img/Spil_opgave_paper_prototype.webp" alt="Spil_opgave_paper_prototype">
+                    </li>
+                    <li class="slide website-mobil">
+                        <p class="carousel-titel">Spil_opgave_sketches</p>
+                        <img src="../img/Spil_opgave_sketches.webp" alt="Spil_opgave_sketches">
+                    </li>
+                    <li class="slide" data-active>
+                        <p class="carousel-titel">Spil_opgave_assets</p>
+                        <img src="../img/Spil_opgave_assets.webp" alt="Spil_opgave_færdige_assets">
+                    </li>
+                    <li class="slide">
+                        <p class="carousel-titel">Spil_opgave_ide_til_start_screen</p>
+                        <img src="../img/Spil_opgave_ide_til_start_screen.webp" alt="Spil_opgave_ide_til_start_screen">
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="t5-container">
+            <h3 class="t5-txt"> Tema_5</h3>
+            <div class="txt-container4 overflowTest">
+                <p>På femte tema skulle vi lære at filme og redigere video, samt redesigne en virksomheds website. Her
+                    blev vi inddelt i grupper. Til video-opgaven arbejdede vi sammen to og to. Her arbejdede jeg med
+                    Victoria Oxenbøll. Til virksomhedssitet var vi fire i gruppen. Her arbejdede jeg sammen med Victoria
+                    Oxenbøll, Victoria Vevest og Hasse Bill.
+                </p>
+                <h3>Videosite</h3>
+                <p>I videoopgaven skulle vi interviewe en person der fortæller om sin passion, og her var vi så heldige
+                    at kunne få fat på Ivan som er drag queen. Han ville glædeligt snakke lidt med os om det.
+                    Inden vi skulle interviewe fik vi en hurtig introduktion til forskelligt optagelsesudstyr i Tech
+                    Lab. Vi benyttede os af:
+                    Reflektorskærm, smart lav mic fra Røde, og to DJI Osmo Pockets.</p>
+                <p>Vi filmede interviewet og lavede B-roll materiale men fandt ud af at lyden var gået tabt (selvom vi
+                    havde lavet 4 test runs på Audition-appen til RØDE microfonen.)
+                    Vi havde heldigvis en backup lyd på interviewet, som vi måtte anvende og redigere i for overhoved at
+                    have lyd på.
+                    Vi sørgede for at lave en lille optagelse af noget hvidt, så vi kunne color correcte korrekt
+                    efterfølgende. Desuden lavede vi lydoptagelse af lokalets baggrundslyd, så vi nemmere kunne redigere
+                    lyden i klip senere.
+                    Denne video skulle uploades til youtube og placeres på et videosite, som du kan se
+                    <a class="tema-link" href="https://detlilleanneks.dk/mmd/1sem/t5/vidoesite/index.html"
+                        target="_blank">her.</a>
+                </p>
+                <div class="carousel hidden-web" data-carousel>
+                    <button class="carousel-button prev" data-carousel-button="prev">&#8604;</button>
+                    <button class="carousel-button next" data-carousel-button="next">&#8605;</button>
+                    <ul data-slides>
+                        <li class="slide" data-active>
+                            <p class="carousel-titel">Videosite_index</p>
+                            <img src="../img/videosite-forside.png" alt="Videosite_index">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">Videosite_storyboard1</p>
+                            <img src="../img/vidoe-storyboard1.webp" alt="Videosite_storyboard1">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">Videosite_storyboard2</p>
+                            <img src="../img/vidoe-storyboard2.webp" alt="Videosite_storyboard2">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">website_interview_billede</p>
+                            <img src="../img/videosite-interview-billede.webp" alt="website_interview_billede">
+                        </li>
+                    </ul>
+                </div>
+                <h3>Virksomhed_redesign</h3>
+                <p>I temaets anden opgave skulle vi i grupper på fire, redesigne en virksomheds website og lære at bruge
+                    GitHub i processen. Vi fik kontakt til folkene bag Valbyparkens Disc Golf Bane gennem Hasse, og de
+                    indvilligende i at vi kunne prøve at redesigne deres hjemmeside.
+                    Vi holdt et indledende møde med vicedirektøren Andreas Berggren, hvor vi fik input til hvad de
+                    ønskede at se på en ny hjemmeside.</p>
+                    <p>
+                    Efter mødet gik vi direkte til at brainstorme og idegenerere på layout og farvevalg. Vores Scrum
+                    master, Victoria Oxenbøll, skrev hver dag opgaver på vores trello-board med deadlines, så vi kunne
+                    holde styr på hvad der manglede og hvornår det skulle være færdigt.
+                    Da vi havde besluttet os for et wireframe og styletile, uddelte vi de forskellige sider ud til
+                    hinanden; Vevest fik “Forsiden”, Oxenbøll fik “Banen”, Hasse fik “Klubben” og jeg fik “Kontakt”.</p>
+                    <p>
+                    Under processen fik jeg lavet nogle peer to peer tests i klassen, hvor vi fik masser af god og
+                    konstruktiv feedback som vi kunne arbejde videre med.
+                    Afslutningsvis skulle vi præsentere vores projekt i et <abbr title="20 slides á 20 sekunder"> pecha kucha-format.</abbr>
+                    I kan se vores redesign <a class="tema-link" href="https://t5-1s-virksomhedssite.netlify.app"
+                        target="_blank">her</a> og det gamle site<a class="tema-link" href="http://www.valbyparken.dk/"
+                        target="_blank">her.</a>
+                </p>
+
+                <div class="hidden-web carousel" data-carousel>
+                    <button class="carousel-button prev" data-carousel-button="prev">&#8604;</button>
+                    <button class="carousel-button next" data-carousel-button="next">&#8605;</button>
+                    <ul data-slides>
+                        <li class="slide" data-active>
+                            <p class="carousel-titel">Virksomhed_ide_fase</p>
+                            <img src="../img/virksomhed-ide-fase.webp" alt="Virksomhed_ide_fase">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">Virksomhed_ide_fase2</p>
+                            <img src="../img/virksomhed-ide-fase1.webp" alt="Virksomhed_ide_fase2">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">Virksomhed_mobil_wirefram</p>
+                            <img src="../img/Virksomhed-wireframe-mobil.webp" alt="Virksomhed_mobil_wirefram">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">virksomhed_web_wireframe</p>
+                            <img src="../img/Virksomhed-wireframe-web.webp" alt="virksomhed_web_wireframe">
+                        </li>
+                        <li class="slide">
+                            <p class="carousel-titel">virksomhed_styletile</p>
+                            <img src="../img/virksomhed-styletile.webp" alt="virksomhed_styletile">
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="videosite-container hidden">
+            <div class="carousel" data-carousel>
+                <button class="carousel-button prev" data-carousel-button="prev">&#8604;</button>
+                <button class="carousel-button next" data-carousel-button="next">&#8605;</button>
+                <ul data-slides>
+                    <li class="slide" data-active>
+                        <p class="carousel-titel">Videosite_index</p>
+                        <img src="../img/videosite-forside.png" alt="Videosite_index">
+                    </li>
+                    <li class="slide">
+                        <p class="carousel-titel">Videosite_storyboard1</p>
+                        <img src="../img/vidoe-storyboard1.webp" alt="Videosite_storyboard1">
+                    </li>
+                    <li class="slide">
+                        <p class="carousel-titel">Videosite_storyboard2</p>
+                        <img src="../img/vidoe-storyboard2.webp" alt="Videosite_storyboard2">
+                    </li>
+                    <li class="slide">
+                        <p class="carousel-titel">website_interview_billede</p>
+                        <img src="../img/videosite-interview-billede.webp" alt="website_interview_billede">
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="virksomhed-container hidden">
+            <div class="carousel" data-carousel>
+                <button class="carousel-button prev" data-carousel-button="prev">&#8604;</button>
+                <button class="carousel-button next" data-carousel-button="next">&#8605;</button>
+                <ul data-slides>
+                    <li class="slide" data-active>
+                        <p class="carousel-titel">Virksomhed_ide_fase</p>
+                        <img src="../img/virksomhed-ide-fase.webp" alt="Virksomhed_ide_fase">
+                    </li>
+                    <li class="slide">
+                        <p class="carousel-titel">Virksomhed_ide_fase2</p>
+                        <img src="../img/virksomhed-ide-fase1.webp" alt="Virksomhed_ide_fase2">
+                    </li>
+                    <li class="slide">
+                        <p class="carousel-titel">Virksomhed_mobil_wirefram</p>
+                        <img src="../img/Virksomhed-wireframe-mobil.webp" alt="Virksomhed_mobil_wirefram">
+                    </li>
+                    <li class="slide">
+                        <p class="carousel-titel">virksomhed_web_wireframe</p>
+                        <img src="../img/Virksomhed-wireframe-web.webp" alt="virksomhed_web_wireframe">
+                    </li>
+                    <li class="slide">
+                        <p class="carousel-titel">virksomhed_styletile</p>
+                        <img src="../img/virksomhed-styletile.webp" alt="virksomhed_styletile">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>Zehra S. Dursun portfolio webside 2023 sem. 1. eksamen</p>
+    </footer>
+    <script src="../js/script.js"></script>
+</body>
+
+</html>

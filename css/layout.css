@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    position: relative;
+    background-color: #fcc7d2;
+}
+html{
+    min-height: 100%;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+header ul{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    background-color: #f092a6ab;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 5%;
+        text-align:left;
+        font-size: small;
+}

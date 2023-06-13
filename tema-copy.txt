@@ -1,0 +1,105 @@
+TEMA 2
+
+I Tema to lærte vi om grundlæggende web, det inkluderede læring om grafiske analyser, photoshop tutorials, opmarkering af tekster i HTML og hvordan man laver sit website responsivt.
+Gennem dette Tema lavede vi to store opgaver Website og Emnesite som også var vores studiestartsprøve.
+
+I opgaven Website var målet at kunne stille elementer op efter et wireframe som lærene gav os samt lære at lave en god mappestruktur.
+Opgaven udviklede forståelsen for navnekonventioner og navigation fra index til undersider og tilbage.
+
+Emnesitet var en støre opgave hvor jeg selv skulle lave copy (tekst), tage billeder til sitet, og lave wireframe, moodboar samt styletile.
+jeg lavede mit emnesite om min bamse samling, som style valgte jeg antidesign. Menuen er ikke den klassiske oppe i headeren men istedet var midt på index siden. lavede sitet så det var lidt legende hvor diverse tekst og billeder var gemt men ville komme frem når man hoverede over det, dog for at sørge for man vidste der var noget gemt havde jeg lagt en hvid næsten transparent container til billederne og en tekst container med en border på til teksten.
+
+Hasse Bill TEMA 2
+
+I tema 2 lærte vi om grundlæggende web. Det inkluderede blandt andet grafiske analyser, photoshop tutorials, opmarkering af tekster i HTML og hvordan man laver sit website responsivt.
+I dette tema lavede vi to store opgaver; et website og et emnesite, der samtidig fungerede som vores studiestartsprøve.
+
+I website-opgaven var målet at kunne stille elementer op efter et wireframe som lærerne udleverede, samt lære at lave en god mappestruktur.
+Opgaven udviklede forståelsen for navnekonventioner og link-struktur fra index til undersider og tilbage.
+
+Emnesitet var en større opgave, hvor jeg selv skulle udarbejde wireframe, moodboard, styletile, copy og skaffe billeder til sitet.
+Mit emnesite omhandlede min bamsesamling, og som overordnet designstil valgte jeg <i>antidesign</>i-. Det ses fx af at menuen ikke følger den konvention at være placeret i headeren men i stedet befandt sig midt på siden. Jeg søgte et legende udtryk, hvor diverse copy og billeder var gemt men synligt ved hover. For alligevel at hinte til brugeren at der var noget indhold gemt på sitet, havde jeg lagt en hvid næsten transparent container til billederne og en tekst-container med en border på til teksten.
+
+TEMA 3
+
+I dette tema blev der gået i dybte med user experience også kaldt UX. Vi gik igennem UX'erens rolle på tværs af designdisciplinerIterative processer. Vi lærte mange forskellige måder at indsamle data om brugere og brugerssituationer, det indebar; desk research, surveys, observation digitalt og fysisk, interviews og tænke højt test.
+
+i opgaven for dette tema skulle vi producere en t-shirt/tøj webshop med alt den data vi havde indsamlet i den først uge af temaet, der skulle ikke kodes der imod skulle vi bruge dette tema på at lære pogrammet adobe XD at kende. vi lavede en prototype til websitet med XD for at lave en virkelighedsnær oplevelse af webshoppen, det vil sige man ville kunne trykke på knapper og "ligge ting i en kurv" og "købe" varene.
+Jeg lavede en webshop med målgruppen "kreative og alternative personer"
+den sidste dag af dette Tema skulle vi lave en pitch for vores produkt gennem en form af powerpoint, du kan se min pitch her. og se min "webshop" her
+
+Hasse Bill
+TEMA 3
+
+I dette tema gik vi i dybden med UX (user experience). Vi gik igennem UX'erens rolle på tværs af designdiscipliner og iterative processer. Vi blev desuden introduceret for mange forskellige måder at indsamle data på om brugere på: desk research, surveys, observation - digitalt og fysisk, interviews og tænke højt-test.
+
+I denne temaopgave skulle vi producere en webshop der solgte t-shirts og andet tøj, hvor vi drog på al den indsamlede data. Her skulle der ikke kodes men derimod laves en prototype i programmet Adobe XD. Målsætningen var at lave en virkelighedsnær oplevelse af webshoppen, så man kunne interagere med det ved fx at trykke på knapper, "lægge varer i kurv" og "købe" varerne.
+Målgruppen for min webshop var "kreative og alternative personer.”
+På den sidste dag i temaet skulle vi lave pitche vores produkt for resten af klassen. Dette skete via powerpoint, og du kan se mit pitch her.
+
+Se prototypen på min webshop her.
+
+Tema 4
+
+På det fjerde Tema skulle vi lære JavaScript at kende, og det gjorde vi gennem game design.
+
+klassen fik en masse stilarter at vælge imellem for vores spil hvor jeg valgte Hattie Stewart og Year Walk da jeg ville gå en mere horror inspireret vej.
+Jeg gik igennem flere skitser og teste for hvordan spillet skulle fungere.
+Jeg havde en masse ideer og havde skitset nogen af dem digitalt for at se hvad der ville være sjovest at lave. Desvære crashede min computer og det gik tabt da jeg glemte at gemme, så lærte jeg da det.
+jeg ende med at lave et spil hvor man skal clicke på skyggerne under barnets seng før de slukker lyset og dræber hende. Jeg tog valget at lave tre forskellige slutninger istedet for "level complete" og "game over" da det ikke passede til min ide. 
+Jeg skitserede og lavede en paperprototype af spillet og begyndte på at lave ideer til hvad historien skulle være bag spillet. For at kunne se hvordan mekanikken skulle fungere lavede vi aktivitetsdiagrammer og state machinediagrammer. I den sidste uge af temaet fik jeg nogle venner til at indtale de forskellige voice lines til scenen før spillet og den dårlige slutning.
+du kan se mit spil her
+
+Hasse Bill Tema 4
+
+På fjerde tema skulle vi lære JavaScript at kende, og det gjorde vi ved at designe et interaktivt spil.
+
+Klassen fik indledningsvist en masse stilarter præsenteret, og jeg valgte at mit spil skulle ligne en krydsning mellem Hattie Stewart og Year Walk, da jeg ønskede at gå en mere horror-inspireret vej med mit spil.
+Jeg udarbejdede flere skitser og tests for at finde ud af, hvordan spillet skulle fungere.
+Desværre mistede jeg en masse af disse digitale skitser da min computer crashede. Lille mig havde selvfølgelig glemt at gemme undervejs, så nu har jeg da lært at gøre det fremover.
+Jeg endte med at lave et spil, hvor en pige sover i et rum og der under hendes seng befinder sig nogle skygger. Jeg valgte her at lave tre forskellige slutninger - istedet for dikotomien "level complete" og "game over" - da dette passede bedre til min ide.
+Jeg skitserede, lavede paper prototype af spillet og begyndte herefter at tænke i hvad den underliggende historie skulle være i spillet. For at kunne se hvordan mekanikken i spillet fungerer, udarbejdede vi aktivitets- og state machinediagrammer. 
+
+I den sidste uge af temaet fik jeg desuden nogle venner til at indtale de forskellige stemmer der skulle bruges i spillet.
+
+Du kan se mit spil her.
+
+Tema 5
+
+Tema fem Skulle vi lære om video redigering og shooting og redesigne en virksomheds website. De to opgaver blev vores første gruppe opgaver hvor jeg var så heldig at komme i gruppe med Victoria Vevest, Hasse Bill og Victoria Oxnbøll hvor video opgaven var vi to og to hvor mig og Victoria Oxnbøll var sammen.
+
+Video opgaven skulle vi interview en person om deres passion, der var vi så heldig at ku få fat på Ivan Som er drag queen og sagde glædeligt ja til at snakke lidt om det. 
+Enden vi skulle interviewe fik vi et speed kursus om nogle forskellige optagelses udstyr fra Tech Lab, vi tog brug af;
+Reflector, Røde smart lav mic, og to DJI-OSMO-POCKET.
+vi fik taget de forskellige B-roll og interview video men desvære gik lyden tabt selv efter 4 test runs på Audition appen til RØDE microfonen. 
+Vi havde heldigvis audioen på interviewed som vi så brugte og redigerede i for at få det til at lyde rent.
+vi havde taget en hvid video til color correcting og en lyd optagelse af lyden i lokalet så vi kunne redigere det fra i editing fasen.
+for at vise denne video frem skulle vi uploade det til youtube og lave et video site som du kan se her.
+
+i den sidste opgave for dette tema skulle vi i grupper af fire, redesign en virksomheds website med brug af GitHub. Vi fik kontakt med Valbyparken disc golf gennem Hasse, hvor de gik med på at få deres hjemmeside redesignet. Vi fik et kort møde med dem hvor vi fik af vide hvad de gik efter for deres nye side. Efter mødet gik vi direkte til brainstorming og ide genereing af layout og farve valg, vores Scrum master som var Oxenbøll ville hver dag skrive vores opgaver op på vores trello board hvor vi holde scrum møde hver morgen for at sørge for vi vidste hvad vi skulle lave og hvad vores deadlines var.
+da vi fik designet på wireframe og styletile gav vi de forskellige sider ud til hinanden, Forsiden fik Vevest, Banen fik Oxenbøll, KFK/Klubben fik Hasse og jeg fik Kontakt. 
+Under processen fik jeg nogle peer to peer teste i klassen hvor vi fik massere af god feedback som vi kunne arbejde ud fra og virkelig få siden til at se lækker ud.
+som slut på dette tema skulle vi lave en pecha kucha pressentation af vores opgav.
+I kan se vores redesign her.
+
+Hasse Bill Tema 5
+
+På femte tema skulle vi lære at filme og redigere video, samt redesigne en virksomheds website. Her blev vi inddelt i grupper. Til video-opgaven arbejdede vi sammen to og to. Her arbejdede jeg med Victoria Oxenbøll. Til virksomhedssitet var vi fire i gruppen. Her arbejdede jeg sammen med Victoria Oxenbøll, Victoria Vevest og Hasse Bill.
+Hasse Bill er forresten et af de mest cool mennesker jeg nogensinde har mødt.
+
+I videoopgaven skulle vi interviewe en person der fortæller om sin passion, og her var vi så heldige at kunne få fat på Ivan som er drag queen. Han ville glædeligt snakke lidt med os om det.
+Inden vi skulle interviewe fik vi en hurtig introduktion til forskelligt optagelsesudstyr i Tech Lab. Vi benyttede os af:
+Reflektorskærm, smart lav mic fra Røde, og to DJI Osmo Pockets.
+
+Vi filmede interviewet og lavede B-roll materiale men fandt ud af at lyden var gået tabt (selvom vi havde lavet 4 test runs på Audition-appen til RØDE microfonen.)
+Vi havde heldigvis en backup lyd på interviewet, som vi måtte anvende og redigere i for overhoved at have lyd på.
+Vi sørgede for at lave en lille optagelse af noget hvidt, så vi kunne color correcte korrekt efterfølgende. Desuden lavede vi lydoptagelse af lokalets baggrundslyd, så vi nemmere kunne redigere lyden i klip senere.
+Denne video skulle uploades til youtube og placeres på et videosite, som du kan se her.
+
+I temaets anden opgave skulle vi i grupper på fire, redesigne en virksomheds website og lære at bruge GitHub i processen. Vi fik kontakt til folkene bag Valbyparkens Disc Golf Bane gennem Hasse, og de indvilligende i at vi kunne prøve at redesigne deres hjemmeside. 
+Vi holdt et indledende møde med vicedirektøren Andreas Berggren, hvor vi fik input til hvad de ønskede at se på en ny hjemmeside. 
+Efter mødet gik vi direkte til at brainstorme og idegenerere på layout og farvevalg. Vores Scrum master, Victoria Oxenbøll, skrev hver dag opgaver på vores trello-board med deadlines, så vi kunne holde styr på hvad der manglede og hvornår det skulle være færdigt.
+Da vi havde besluttet os for et wireframe og styletile, uddelte vi de forskellige sider ud til hinanden; Vevest fik “Forsiden”, Oxenbøll fik “Banen”, Hasse fik “Klubben” og jeg fik “Kontakt”. 
+Under processen fik jeg lavet nogle peer to peer tests i klassen, hvor vi fik masser af god og konstruktiv feedback som vi kunne arbejde videre med.
+Afslutningsvis skulle vi præsentere vores projekt i et pecha kucha-format (20 slides á 20 sekunder).
+I kan se vores redesign her.
