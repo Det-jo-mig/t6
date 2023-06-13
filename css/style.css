@@ -975,9 +975,11 @@ p {
 @font-face {
     src: url(../font/CherryBombOne-Regular.ttf);
     font-family: "CherryBombOne";
+    font-display: swap;
 }
 
 @font-face {
     src: url(../font/ChakraPetch/ChakraPetch-Regular.ttf);
     font-family: "ChakraPetch";
+    font-display: swap;
 }
