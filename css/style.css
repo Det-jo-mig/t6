@@ -712,6 +712,9 @@ p {
         top: -25%;
         left: 0%;
     }
+    .carousel-button {
+        z-index: 0;
+    }
 
     .slide {
         margin: 6%;
