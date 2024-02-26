@@ -1,0 +1,33 @@
+1.Hvordan reagerer du på uventede udfordringer?
+-oftes når ddet har med opgaver eller arbejde joker jeg nok lidt om det men tager det som det kommer for har mindsettet at man altid skal være forberedt på uventet udfordringer.
+
+2.Hvordan har du det med at give eller få kritiske spørgsmål? 
+-elsker kritik! da jeg har baggrund på design skole og altid har været inde for det kreative har jeg udviklet mig meget med at holde af kritik og give kritik.
+
+3.Hvor let / svært er det for dig at uddelegere opgaverne? 
+-er ikke rigtig en leder type har det svært med sådan noget mn hvis man virkelig sidder i en irriterende situation kan jeg godt tage hånd over det og sætte streg under "dette er valgt nu er det sådan og så må vi se hvad der kommer ud af det.
+
+4.Hvad skal der til for at du kan yde dit bedste i et teamsamarbejde? 
+-en god leder/n passioneret gruppe. jeg gengiver meget den håldning folk har og hvis den er afslappet og lige glad bliver jeg nemt også meget ligeglad. Har brug for en gruppe som holder passionen for projektet oppe!
+
+5.Hvor vigtigt er det for dig at blive anerkendt for din indsats af de andre i teamet eller af dine undervisere/andre?
+-ret vigtigt! kritik og komplimenter er lige vigtige når det kommer til gruppe arbejde, hvis man har noget positivt at sige skal man altid sige det synes jeg
+
+6.Hvor god er du til at omstille dig i en travl hverdag med et krævende studie, studiejob, kæreste, venner, familie, sportsaktiviteter etc.?
+-er ret dårlig, men hvis jeg har en gruppe til at hjælpe med at understrege hvor vigtigt det er at være færdige med de aftalte ting eller at vi bare holder "morgen/dag møder" har jeg en tendens til at få ting i min hvweredag til at spille.
+
+
+
+
+Copenhagen light festival:
+helt sort baggrund, eneste lys er text og nogle meget få billeder måske lidt animation i CSS
+
+en lille båd i neon lys der sejler for at vise om deres båd tur man også kan komme på
+
+fokus på mobilefirst da det vigtigt den er god på mobil når man går rundt på ruterne
+
+
+UX Copenhagen:
+Simple. folk læser ikke teksten så sørg for den er læsbar. 
+skal gøres mere interesant, synes "The confrence" men ikke så ekstrem i vissuelt udtryk.
+Reklamer og inkluder online goers, gør det mere appaleredene at være til conforencen online.
